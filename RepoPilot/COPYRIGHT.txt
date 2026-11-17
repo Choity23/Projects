@@ -1,0 +1,8 @@
+RepoPilot
+Copyright © 2026 Mst. Choity Akter and MD. Junayedul Islam Zarif. All rights reserved.
+
+Authors
+- Mst. Choity Akter — https://www.linkedin.com/in/mst-choity-akter-572067316/
+- MD. Junayedul Islam Zarif — https://www.linkedin.com/in/pentesterjunayed/
+
+RepoPilot is proprietary software. No permission to reproduce, redistribute, sell, sublicense, modify, or create derivative copies is granted except as permitted by applicable law or with prior written permission from the copyright holders.
