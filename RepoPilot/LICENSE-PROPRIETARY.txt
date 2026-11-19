@@ -1,0 +1,9 @@
+REPOPILOT — PROPRIETARY SOFTWARE NOTICE
+
+Copyright © 2026 Mst. Choity Akter. All rights reserved.
+
+This package and its source code are provided for authorized use by the recipient. Unless the copyright holder grants prior written permission, you may not publish, redistribute, sell, sublicense, or create and distribute modified or derivative copies of this software. Nothing in this notice restricts rights that cannot lawfully be restricted under applicable law.
+
+The RepoPilot name, source code, interface design, documentation, and related materials are claimed as copyrighted works by Mst. Choity Akter to the extent protected by applicable law. This notice is not a substitute for jurisdiction-specific legal advice or registration requirements.
+
+For permission requests, contact the copyright holder through the LinkedIn profile listed in COPYRIGHT.txt.
